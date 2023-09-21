@@ -1,2 +1,2 @@
-# Nextcloud-Cookbook-Client-Support
-Support page for the Nextcloud Cookbook Client
+# Nextcloud Cookbook Client
+The Nextcloud Cookbook Client is an iOS/iPadOS/MacOS client application for the Nextcloud service 'Nextcloud CookBook'.
