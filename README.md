@@ -8,6 +8,6 @@ This application does not collect any data. The recipes downloaded from your Nex
 
 # Contact
 
-If you have any questions, feedback, or need assistance, don't hesitate to reach out to me at support@email.com.
+If you have any questions, feedback, or need assistance, don't hesitate to reach out to me at cookbook-client@gmx.de.
 
 Thank you for choosing the Nextcloud Cookbook Client! Happy cooking!
